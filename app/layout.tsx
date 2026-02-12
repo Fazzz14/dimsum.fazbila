@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Dimsum Fazbila - Premium Homemade Dimsum",
-  description: "Dimsum homemade premium dengan rasa autentik dan kualitas terbaik.",
+export const metadata = {
+  title: "Dimsum Fazbila | Premium Homemade Dimsum",
+  description: "Dimsum premium homemade dengan kualitas terbaik. Order sekarang via WhatsApp atau Shopee.",
 };
 
 export default function RootLayout({
