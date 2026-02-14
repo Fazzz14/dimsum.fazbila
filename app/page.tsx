@@ -153,14 +153,14 @@ export default function Page() {
       </motion.div>
 
       {/* Floating WhatsApp */}
-      <a
+      {/* <a
         href="https://wa.me/6281234567890?text=Halo%20Dimsum%20Fazbila,%20saya%20mau%20order"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-4 right-4 bg-green-500 text-white p-4 rounded-full shadow-xl hover:scale-110 transition-all z-50"
       >
         <FaWhatsapp size={22} />
-      </a>
+      </a> */}
 
       {/* ANIMATION STYLE */}
       <style jsx global>{`
