@@ -13,34 +13,34 @@ type LinkItem = {
 };
 
 const LINKS: LinkItem[] = [
-  {
-    id: "tiktok",
-    label: "TikTok",
-    url: "https://www.tiktok.com/@your_username",
-    desc: "Video promo & behind the scene",
-  },
-  {
-    id: "shopee",
-    label: "Shopee",
-    url: "https://shopee.co.id/your_shop",
-    desc: "Order via Shopee",
-  },
+  // {
+  //   id: "tiktok",
+  //   label: "TikTok",
+  //   url: "https://www.tiktok.com/@fazarizqy",
+  //   desc: "Video promo & behind the scene",
+  // },
+  // {
+  //   id: "shopee",
+  //   label: "Shopee",
+  //   url: "https://shopee.co.id/your_shop",
+  //   desc: "Order via Shopee",
+  // },
   {
     id: "instagram",
     label: "Instagram",
-    url: "https://instagram.com/your_username",
+    url: "https://www.instagram.com/dimsum.fazbila?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     desc: "Lihat menu & testimoni",
   },
   {
     id: "maps",
     label: "Google Maps",
-    url: "https://maps.google.com/?q=Gumpang+Kartasura",
+    url: "https://maps.app.goo.gl/vEM2kQUFFJ1UmbET8",
     desc: "Lihat lokasi kami",
   },
   {
     id: "catalog",
-    label: "Katalog Menu",
-    url: "https://drive.google.com/drive/folders/your-folder-id",
+    label: "Price List",
+    url: "https://drive.google.com/drive/folders/1CVPu-03VaUonCKr9XyffeOvzFRhh6i8o?usp=sharing",
     desc: "Download daftar menu lengkap",
   },
 ];
@@ -137,7 +137,7 @@ export default function Page() {
 
           {/* MAIN CTA */}
           <a
-            href="https://wa.me/6281234567890?text=Halo%20Dimsum%20Fazbila,%20saya%20mau%20order"
+            href="https://wa.me/6289672296961?text=Halo%20Dimsum%20Fazbila,%20saya%20mau%20order"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-3 bg-gradient-to-r from-orange-500 to-orange-600 text-white font-bold py-3 rounded-xl shadow-lg hover:scale-105 hover:shadow-2xl transition-all text-center tracking-wide"
