@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Dimsum Fazbila | Premium Homemade Dimsum",
     description:
-      "Fresh • Homemade • Premium Quality. Order sekarang via WhatsApp atau Shopee.",
+      "Fresh • Homemade • Premium Quality. Order sekarang via WhatsApp.",
     images: ["/og-image.png"],
   },
 };
