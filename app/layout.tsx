@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Dimsum premium homemade dengan kualitas terbaik. Fresh • Homemade • Premium Quality. Order sekarang via WhatsApp atau Shopee.",
+    "Dimsum premium homemade dengan kualitas terbaik. Fresh • Homemade • Premium Quality. Order sekarang via WhatsApp.",
 
   keywords: [
     "dimsum",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Dimsum Fazbila | Premium Homemade Dimsum",
     description:
-      "Fresh • Homemade • Premium Quality. Order sekarang via WhatsApp atau Shopee.",
+      "Fresh • Homemade • Premium Quality. Order sekarang via WhatsApp.",
     url: "https://dimsumfazbila.vercel.app",
     siteName: "Dimsum Fazbila",
     images: [
